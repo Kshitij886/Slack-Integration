@@ -1,5 +1,5 @@
 const { WebClient } = require("@slack/web-api");
-const client = new WebClient("your-but-user-oauth-token");
+const client = new WebClient("your-bot-user-oauth-token");
 
 async function sendMessage() {
   await client.chat.postMessage({
