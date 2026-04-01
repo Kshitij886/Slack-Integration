@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Kshitij886/Slack-Integration/issues"
   },
-  "homepage": "https://github.com/Kshitij886/Slack-Integration#readme"
+  "homepage": "https://github.com/Kshitij886/Slack-Integration#readme",
+  "dependencies": {
+    "@slack/web-api": "^7.15.0"
+  }
 }
