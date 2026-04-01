@@ -1,0 +1,19 @@
+{
+  "name": "slack-integration",
+  "version": "1.0.0",
+  "description": "This is slack integration code ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kshitij886/Slack-Integration.git"
+  },
+  "author": "Kshitij khatri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kshitij886/Slack-Integration/issues"
+  },
+  "homepage": "https://github.com/Kshitij886/Slack-Integration#readme"
+}
